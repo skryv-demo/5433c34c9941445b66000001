@@ -1,1 +1,163 @@
-{}
+{
+    "contactgegevens": {
+        "content_provider": {
+            "algemene_contactgegevens_organisatie": {
+                "adres": {
+                    "googleplace": "Tessenderlo, Belgium",
+                    "city": "Tessenderlo",
+                    "street": "Bel",
+                    "number": "755",
+                    "postalCode": "87993"
+                },
+                "naam_instelling": "Testing",
+                "website": "dsss://dd.com"
+            },
+            "contactpersoon_service_agreement": {
+                "__comments__": [
+                    {
+                        "message": "A new comment",
+                        "created": "2014-10-07T10:42:28.052Z",
+                        "on": "naam"
+                    }
+                ],
+                "naam": "ja ja"
+            },
+            "contactpersoon_administrator_viaa_mam": {},
+            "contactpersoon_metadata": {},
+            "bijkomende_contactpersonen": [],
+            "logo": {
+                "logocustomisatie_op_proxy_gewenst": {}
+            }
+        },
+        "viaa": {
+            "contactpersoon_service_agreement": {}
+        }
+    },
+    "deel_i__collectiebeschrijving": {
+        "technische_aard_van_de_collectie": {
+            "selectedChoice": "Reeds gedigitaliseerd materiaal (intake bestaand archief)"
+        },
+        "kwantificatie": {
+            "kwantificatie_per_type": [
+                {
+                    "type": {
+                        "selectedChoice": "Aan te vullen op basis van input Eva"
+                    },
+                    "aantal_aangeleverde_objecten": 2520,
+                    "bijkomende_informatie": "Test."
+                },
+                {
+                    "type": {
+                        "selectedChoice": "Video"
+                    },
+                    "bijkomende_informatie": "sss"
+                },
+                {
+                    "type": {
+                        "selectedChoice": "Video"
+                    },
+                    "bijkomende_informatie": "s"
+                }
+            ]
+        },
+        "technische_beschrijving_van_de_collectie": {
+            "formaat_van_het_data_object": []
+        },
+        "metadata": {
+            "beschrijvende_metadata": {
+                "heeft_de_cp_beschrijvende_metadata": {
+                    "op_collectieniveau": {},
+                    "op_dragerniveau": {},
+                    "op_itemniveau": {},
+                    "metadata_model": {},
+                    "metadata_formaat": {}
+                },
+                "heeft_de_cp_technische_metadata": {
+                    "op_collectieniveau": {},
+                    "op_dragerniveau": {},
+                    "op_itemniveau": {},
+                    "metadata_model": {},
+                    "metadata_formaat": {}
+                },
+                "heeft_de_cp_preservatie_metadata": {
+                    "op_collectieniveau": {},
+                    "op_dragerniveau": {},
+                    "op_itemniveau": {},
+                    "metadata_model": {},
+                    "metadata_formaat": {}
+                }
+            },
+            "mapping_viaa": {
+                "mastering_metadata_velden": {}
+            }
+        },
+        "context": {},
+        "rechten": {
+            "zijn_de_contractuele_bepalingen_omtrent_de_rechten_voldoende": {
+                "indien_neen,_geef_dan_hier_de_afwijkingen_weer": []
+            }
+        },
+        "identifiers": {
+            "local_cp_id": []
+        },
+        "preservering": {
+            "preserveringsniveau": {}
+        },
+        "thesaurus": {
+            "zijn_er_authorities_of_controlled_vocabularies_gebruikt_om_de_assets_te_annoteren": {
+                "moeten_deze_ook_beschikbaar_zijn_binnen_viaas_mam_met_betrekking_op_annotatie_in_het_mam": {}
+            }
+        },
+        "titel_collectie": "584",
+        "beschrijving_collectie": "657"
+    },
+    "deel_ii__ingest__archiveringsproces": {
+        "goedkeuring_essence_file_digitalisering": {},
+        "transfer": {
+            "hoe_wordt_de_sip_aangeleverd": {
+                "essence": {
+                    "selectedChoice": "Ander",
+                    "specifieer": "ssss"
+                },
+                "sp_metadata": {
+                    "selectedChoice": "FTP"
+                },
+                "cp_metadata": {}
+            }
+        },
+        "validatie": {}
+    },
+    "deel_iii__postarchivering": {
+        "reporting": {
+            "notificatie_en_reporting": {
+                "selectedChoice": "Standaard"
+            }
+        },
+        "nabewerking": {
+            "annoteren": {
+                "verantwoordelijkheid_cp_om_de_asset_te_verrijken_op_een_manier_dat_de_asset_gebruikt_kan_worden_voor_ontsluiting": {
+                    "selectedChoices": {}
+                }
+            },
+            "editeren": {
+                "mastering_essence": {}
+            }
+        },
+        "export": {
+            "inhoud_export": {
+                "selectedChoices": {},
+                "formaat": {
+                    "selectedChoices": {}
+                }
+            },
+            "manier_van_aanlevering_export": {
+                "selectedChoices": {}
+            },
+            "exit_path": {
+                "op_welke_manier_wil_u_de_aip_ontvangen": {
+                    "selectedChoices": {}
+                }
+            }
+        }
+    }
+}
